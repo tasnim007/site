@@ -3,7 +3,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://ntunlpsg.github.io/site/"
+baseurl = ""
 publishDir="docs"
 # Title of your site
 title = "NTU-NLP"
@@ -60,8 +60,8 @@ defaultContentLanguageInSubdir = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   #avatar = "ntunlp_final.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   avatar = "ntunlp_final.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  #email = "test@example.org"
-  address = "N4-02c-111, School of Computer science and Engineering, Nanyang Technological University"
+  email = "srjoty@ntu.edu.sg"
+  address = "MICL lab, School of Computer science and Engineering, Nanyang Technological University"
   office_hours = "Monday - Friday, email for appointment"
   phone = "(+65)6904 1107"
   # skype = ""
@@ -250,19 +250,25 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 [[menu.main]]
+  name = "Members"
+  url = "#people"
+  weight = 2
+
+[[menu.main]]
   name = "Publications"
   url = "publication/"
-  weight = 2
+  weight = 3
+
+[[menu.main]]
+  name = "Projects"
+  url = "#projects"
+  weight = 4
 
 #[[menu.main]]
 #  name = "Posts"
 #  url = "/temp"
 #  weight = 3
 
-#[[menu.main]]
-#  name = "Projects"
-#  url = "#projects"
-#  weight = 4
 
 #[[menu.main]]
 #  name = "Teaching"
