@@ -3,7 +3,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = ""
+baseurl = "ntunlpsg.github.io/site"
 publishDir="docs"
 # Title of your site
 title = "NTU-NLP"
@@ -55,8 +55,8 @@ defaultContentLanguageInSubdir = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  #organizations = [ { name = "Nanyang Technological University", url = "http://www.ntu.edu.sg/Pages/home.aspx" } ]
-  organizations = []
+  organizations = [ { name = "Nanyang Technological University", url = "http://www.ntu.edu.sg/Pages/home.aspx" } ]
+  #organizations = []
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   #avatar = "ntunlp_final.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   avatar = "ntunlp_final.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
@@ -264,10 +264,10 @@ defaultContentLanguageInSubdir = false
   url = "#projects"
   weight = 4
 
-#[[menu.main]]
-#  name = "Posts"
-#  url = "/temp"
-#  weight = 3
+[[menu.main]]
+  name = "Resources"
+  url = "/#projects"
+  weight = 5
 
 
 #[[menu.main]]

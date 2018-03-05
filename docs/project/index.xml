@@ -2,41 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on NTU-NLP</title>
-    <link>/project/</link>
+    <link>ntunlpsg.github.io/site/project/</link>
     <description>Recent content in Projects on NTU-NLP</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Thu, 28 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="ntunlpsg.github.io/site/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Discourse Parser for English</title>
-      <link>/project/1.parser/</link>
+      <link>ntunlpsg.github.io/site/project/1.parser/</link>
       <pubDate>Thu, 28 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/project/1.parser/</guid>
+      <guid>ntunlpsg.github.io/site/project/1.parser/</guid>
       <description>About This package includes:
  A discourse segmenter A discourse parser  Related publications -Shafiq Joty, Giuseppe Carenini, and Raymond Ng. 2015. CODRA: A Novel Discriminative Framework for Rhetorical Analysis. Computational Linguistics, Volume 41:3, MIT Press. [PDF] [BibTeX] Shafiq Joty, Giuseppe Carenini, Raymond Ng and Yashar Mehdad. Combining Intra- and Multi-sentential Rhetorical Parsing for Document-level Discourse Analysis. In Proceedings of the 51st Annual Meeting of the Association for Computational Linguistics (ACL 2013), Sofia, Bulgaria.</description>
     </item>
     
     <item>
       <title>Discourse-informed Sen2Vec</title>
-      <link>/project/3.discourse-info-sen2vec/</link>
+      <link>ntunlpsg.github.io/site/project/3.discourse-info-sen2vec/</link>
       <pubDate>Thu, 28 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/project/3.discourse-info-sen2vec/</guid>
-      <description>test test</description>
+      <guid>ntunlpsg.github.io/site/project/3.discourse-info-sen2vec/</guid>
+      <description>CON-S2V: A Generic Framework for Incorporating Extra-Sentential Context into Sen2Vec Latent Representation for the sentences.
+Requirements  Anaconda with Python 3.5 ROUGE-1.5.5  Python Environment setup and Update  Copy the sen2vec_environment.yml file into anaconda/envs folder Get into anaconda/envs folder. Run the following command:  conda env create -f sen2vec_environment.yml  Now, you have successfully installed sen2vec environment and now you can activate the environment using the following command.</description>
     </item>
     
     <item>
       <title>Neural Local Coherence Model</title>
-      <link>/project/2.n_coh_model/</link>
+      <link>ntunlpsg.github.io/site/project/2.n_coh_model/</link>
       <pubDate>Thu, 28 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/project/2.n_coh_model/</guid>
+      <guid>ntunlpsg.github.io/site/project/2.n_coh_model/</guid>
       <description>About This package includes:
  A bi-directional LSTM for speech act recognition (theano, keras) A global CRF model for thread-level inference (Matlab)  Related publications Shafiq Joty and Enamul Hoque. 2016. Speech Act Modeling of Written Asynchronous Conversations with Task-Specific Embeddings and Conditional Structured Models. In Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (ACL-2016) , Berlin, Germany.
 @article{jotySA, title={Speech Act Modeling of Written Asynchronous Conversations with Task-Specific Embeddings and Conditional Structured Models.</description>
@@ -44,19 +45,19 @@
     
     <item>
       <title>Deep Learning</title>
-      <link>/project/deep-learning/</link>
+      <link>ntunlpsg.github.io/site/project/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/project/deep-learning/</guid>
+      <guid>ntunlpsg.github.io/site/project/deep-learning/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
     </item>
     
     <item>
       <title>External Project</title>
-      <link>/project/example-external-project/</link>
+      <link>ntunlpsg.github.io/site/project/example-external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/project/example-external-project/</guid>
+      <guid>ntunlpsg.github.io/site/project/example-external-project/</guid>
       <description></description>
     </item>
     
