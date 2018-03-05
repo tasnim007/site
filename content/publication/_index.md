@@ -1,8 +1,8 @@
 +++
 title = "Publications"
 date = "2017-01-01T00:00:00Z"
-math = false
-highlight = false
+math = true
+highlight = true
 
 # List format.
 #   0 = Simple
@@ -13,6 +13,6 @@ list_format = 3
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = ""
+image = "/headers/lib.jpg"
 caption = ""
 +++
